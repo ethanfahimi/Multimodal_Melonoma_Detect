@@ -1,0 +1,7 @@
+train/
+
+train.zip
+test.zip
+
+X_test_images.npy
+X_train_images.npy
